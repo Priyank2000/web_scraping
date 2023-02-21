@@ -1,0 +1,5 @@
+bs4
+requests
+pandas
+
+This are the 3 liberary used in this code.
